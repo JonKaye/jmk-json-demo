@@ -1,14 +1,65 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "@odata.context": https://sourceendpoint/api/v1/$metadata#Host(name),
+    "value": [
+        {
+            "name": "sqlhostpphl502"
+        },
+        {
+            "name": "sqlhostpphl542"
+        },
+        {
+            "name": "hostdpphl600"
+        },
+        {
+            "name": "hostdpphl601"
+        },
+        {
+            "name": "hostdpphl602"
+        },
+        {
+            "name": "hostdpphl603"
+        },
+        {
+            "name": "hostdpphl604"
+        },
+        {
+            "name": "hostdpphl605"
+        },
+        {
+            "name": "hostdpphl606"
+        },
+        {
+            "name": "hostdpphl607"
+        },
+        {
+            "name": "hostdsphl602"
+        },
+        {
+            "name": "hostdsphl603"
+        },
+        {
+            "name": "sqlhostpphl503"
+        },
+        {
+            "name": "sqlhostpphl543"
+        },
+        {
+            "name": "webhostpphl500"
+        },
+        {
+            "name": "webhostpphl501"
+        },
+        {
+            "name": "webhostpphl502"
+        },
+        {
+            "name": "sqlhostpphl504"
+        },
+        {
+            "name": "hostphl501"
+        },
+        {
+            "name": "hostphl502"
+        }
+    ]
 }
